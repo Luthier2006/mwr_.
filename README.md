@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d91b&size=35&center=true&vCenter=true&width=1000&lines=MSDOS_mwr)](https://git.io/typing-svg) 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00d91b&size=35&center=true&vCenter=true&width=1000&lines=mwr_.)](https://git.io/typing-svg) 
 
 Project for organizing/categorizing “viruses/malware” (or suspicious code) for multiple platforms, based on MS-DOS/Assembly/C/Java, etc.
 
